@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Portafolio</title>
+    <title>Portafolio Hotfix1</title>
 
     <!-- Bootstrap core CSS -->
     <link href="{{asset('tem/vendor/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
